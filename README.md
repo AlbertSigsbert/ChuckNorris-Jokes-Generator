@@ -8,7 +8,7 @@ Chuck Norris Jokes Generator built with Vanilla JS USING ChuckNorris Jokes API.
 
 
 ### Preview
-![Demo](img/AM-Movies-AJAX.gif)
+![Demo](img/chuck-norris-jokes.gif)
 
 ### Screenshot
 
