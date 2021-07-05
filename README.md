@@ -25,6 +25,7 @@ Chuck Norris Jokes Generator built with Vanilla JS USING ChuckNorris Jokes API.
 ### Links
 
 - [Live Site URL](https://chucknorris-jokes-generator.netlify.app/)
+- [Youtube](https://youtu.be/DaCVovlGFsU)
 
 ### Built with
 
